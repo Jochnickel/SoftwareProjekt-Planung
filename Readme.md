@@ -1,4 +1,6 @@
 Zyklus:
+Nach (während) Punkt 3 mit vorigem Punkt fortfahren und ab da wieder abarbeiten 
+
 
 ## 1. Umschreibung
  - Projektart bestimmen (Modul/App...)
