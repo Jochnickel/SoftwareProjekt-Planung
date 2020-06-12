@@ -16,7 +16,7 @@ z.B.
  
 ## 3. Umsetzung
  - bei Schwierigkeiten kann immer Refaktoring notwendig werden
- - (Pseudo)-Code mit TODOs starten
+ - Codegerüst mit TODOs füllen
 ### sinvoller Anfang: Datenbank aufsetzen, Entrypoint "für dumme" gestalten
 ### früh Einführen: passendes Debugging/ Logging
 ### nicht dringend: User Interface
