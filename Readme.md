@@ -21,7 +21,7 @@ z.B.
  - ist eine Datenbank notwendig
  - (wo) werden Dateien gespeichert
  - sind Admin-Rechte erforderlich
- - Trennung von Struktur und Inhalt definieren
+ - Welche Inhalte werden generisch produziert? Was wird hart implementiert
 
 ## 2. Skizzierung
  - UML-Diagramme, Pseudo-Code/ Comment-Coding
