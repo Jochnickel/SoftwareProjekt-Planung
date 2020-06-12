@@ -27,7 +27,9 @@ z.B.
  - UML-Diagramme, Pseudo-Code/ Comment-Coding
  - keinen Lauffähigen Code produzieren
  - Experimentieren mit Code-Snippets
- 
+
+## 2½. Arbeitsteilung
+
 ## 3. Umsetzung
  - bei Schwierigkeiten kann immer Refaktoring notwendig werden
  - Codegerüst mit TODOs füllen
