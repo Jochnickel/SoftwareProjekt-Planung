@@ -22,6 +22,7 @@ z.B.
  - (wo) werden Dateien gespeichert
  - sind Admin-Rechte erforderlich
  - Welche Inhalte werden generisch produziert? Was wird hart implementiert
+ - Welche Code Conventions/ welcher Stil wird vorgegeben
 
 ## 2. Skizzierung
  - UML-Diagramme, Pseudo-Code/ Comment-Coding
