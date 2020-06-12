@@ -27,6 +27,7 @@ z.B.
  - UML-Diagramme, Pseudo-Code/ Comment-Coding
  - keinen Lauffähigen Code produzieren
  - Experimentieren mit Code-Snippets
+ - Blueprint anfertigen: welche Komponente hat welche Funktion
 
 ## 2½. Arbeitsteilung
 
