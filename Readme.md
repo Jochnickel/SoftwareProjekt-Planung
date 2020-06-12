@@ -1,11 +1,13 @@
 Zyklus:
 
-## 1. Umschreibung, Features, erwünschte Features
- - Beschreibung von min. 2 Benutzertypen
+## 1. Umschreibung
  - Projektart bestimmen (Modul/App...)
  - Aufwand bestimmen: 0-100% Verantwortung
  - Aufwand bestimmen: Anzahl aktiver Pfleger
  - Aufwand bestimmen: Lebenserwartung
+ - Beschreibung von min. 2 Benutzertypen
+ - eher genaue Definition von Core-Features
+ - Abgrenzung zu erwünschten Features machen
  - 
  - optional: Primärsprache bestimmen
  - optional: Lizenz festlegen
