@@ -1,6 +1,14 @@
 Zyklus:
 
 ## 1. Umschreibung, Features, erwünschte Features
+ - Beschreibung von min. 2 Benutzertypen
+ - Projektart bestimmen (Modul/App...)
+ - Aufwand bestimmen: 0-100% Verantwortung
+ - Aufwand bestimmen: Anzahl aktiver Pfleger
+ - Aufwand bestimmen: Lebenserwartung
+ - 
+ - optional: Primärsprache bestimmen
+ - optional: Lizenz festlegen
 
 ## 1½. Hervorhebung von Strukturellen Notwendigkeiten
 z.B.
