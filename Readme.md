@@ -1,5 +1,5 @@
 Zyklus:
-Nach (während) Punkt 3 mit vorigem Punkt fortfahren und ab da wieder abarbeiten 
+Nach (während) Punkt 3 mit vorigem Punkt fortfahren und ab da wieder abarbeiten. Bei Refaktoring Änderungen genau Beschreiben!
 
 
 ## 1. Umschreibung
