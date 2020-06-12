@@ -23,6 +23,8 @@ z.B.
 
 ## 2. Skizzierung
  - UML-Diagramme, Pseudo-Code/ Comment-Coding
+ - keinen Lauffähigen Code produzieren
+ - Experimentieren mit Code-Snippets
  
 ## 3. Umsetzung
  - bei Schwierigkeiten kann immer Refaktoring notwendig werden
